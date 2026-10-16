@@ -1,6 +1,6 @@
 [core]
     analytics = false
-    remote = remote_storage
+    remote = dagshub
 ['remote "remote_storage"']
     url = ../../dvc_remote
 ['remote "dagshub"']
